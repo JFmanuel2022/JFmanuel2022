@@ -8,3 +8,6 @@
 JFmanuel2022/JFmanuel2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Estou interessado em aprender Python e Java.
+Pode chegar até mim atraves dos seguintes : juliaofernandomanuel@yahoo.com.br
+e  fisisca2017aprender@gmail.com
